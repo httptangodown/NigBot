@@ -1,0 +1,2 @@
+# NigBot
+Very spoofy Boatnet
